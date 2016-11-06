@@ -1,0 +1,7 @@
+shutdown
+restart
+logoff
+logout
+lock
+hibernate
+sleep

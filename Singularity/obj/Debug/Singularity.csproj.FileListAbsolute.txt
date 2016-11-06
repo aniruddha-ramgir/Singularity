@@ -1,0 +1,17 @@
+C:\Users\Aniruddha\Documents\Visual Studio 2015\Projects\Singularity\Singularity\bin\Debug\Singularity.exe.config
+C:\Users\Aniruddha\Documents\Visual Studio 2015\Projects\Singularity\Singularity\bin\Debug\Singularity.exe.manifest
+C:\Users\Aniruddha\Documents\Visual Studio 2015\Projects\Singularity\Singularity\bin\Debug\Singularity.application
+C:\Users\Aniruddha\Documents\Visual Studio 2015\Projects\Singularity\Singularity\bin\Debug\Singularity.exe
+C:\Users\Aniruddha\Documents\Visual Studio 2015\Projects\Singularity\Singularity\bin\Debug\Singularity.pdb
+C:\Users\Aniruddha\Documents\Visual Studio 2015\Projects\Singularity\Singularity\bin\Debug\en\Singularity.resources.dll
+C:\Users\Aniruddha\Documents\Visual Studio 2015\Projects\Singularity\Singularity\obj\Debug\Singularity.MainWindow.resources
+C:\Users\Aniruddha\Documents\Visual Studio 2015\Projects\Singularity\Singularity\obj\Debug\Singularity.Properties.Resources.resources
+C:\Users\Aniruddha\Documents\Visual Studio 2015\Projects\Singularity\Singularity\obj\Debug\Singularity.MainWindow.en.resources
+C:\Users\Aniruddha\Documents\Visual Studio 2015\Projects\Singularity\Singularity\obj\Debug\Singularity.csproj.GenerateResource.Cache
+C:\Users\Aniruddha\Documents\Visual Studio 2015\Projects\Singularity\Singularity\obj\Debug\en\Singularity.resources.dll
+C:\Users\Aniruddha\Documents\Visual Studio 2015\Projects\Singularity\Singularity\obj\Debug\Singularity.TrustInfo.xml
+C:\Users\Aniruddha\Documents\Visual Studio 2015\Projects\Singularity\Singularity\obj\Debug\Singularity.exe.manifest
+C:\Users\Aniruddha\Documents\Visual Studio 2015\Projects\Singularity\Singularity\obj\Debug\Singularity.application
+C:\Users\Aniruddha\Documents\Visual Studio 2015\Projects\Singularity\Singularity\obj\Debug\Singularity.exe
+C:\Users\Aniruddha\Documents\Visual Studio 2015\Projects\Singularity\Singularity\obj\Debug\Singularity.pdb
+C:\Users\Aniruddha\Documents\Visual Studio 2015\Projects\Singularity\Singularity\obj\Debug\Singularity.csprojResolveAssemblyReference.cache

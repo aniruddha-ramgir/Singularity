@@ -1,0 +1,16 @@
+open
+run
+exit
+ping
+search
+kill
+start
+launch
+end
+stop
+close
+
+
+
+
+
